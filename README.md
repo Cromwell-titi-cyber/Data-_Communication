@@ -1,4 +1,4 @@
-# Data Communication Assignment — Theophilus Donkor
+# Data Communication Assignment
 
 This repository contains a modern, responsive personal academic website for the course assignment.
 
